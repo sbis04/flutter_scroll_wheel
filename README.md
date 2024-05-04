@@ -2,6 +2,8 @@
 
 Simple Flutter implementation of 3D scroll wheel effect on a list of items.
 
+https://github.com/sbis04/flutter_scroll_wheel/assets/43280874/2b551d0f-bd5f-45a1-94d4-7dd2d764dc9b
+
 ## License
 
 Copyright (c) 2024 Souvik Biswas
